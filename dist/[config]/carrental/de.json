@@ -1,6 +1,6 @@
 {
-  "vehicle": "Boot",
-  "blip_title": "Bootsvermietung",
+  "vehicle": "Auto",
+  "blip_title": "Autovermietung",
   "press_e": "Drücke ~INPUT_CONTEXT~ um ein _vehicle_ zu leihen",
   "store_vehicle": "Drücke ~INPUT_CONTEXT~ um das _vehicle_ zurückzugeben",
   "stored_vehicle": "Danke für das zurückbringen des _vehicle_s",

@@ -1,5 +1,5 @@
 {
-  "vehicle": "barco",
+  "vehicle": "carro",
   "blip_title": "Aluguel de _vehicle_s",
   "press_e": "Pressione ~INPUT_CONTEXT~ para alugar um veículo",
   "store_vehicle": "Pressione ~INPUT_CONTEXT~ para devolver o veículo",

@@ -1,10 +1,10 @@
 {
-  "vehicle": "boot",
-  "blip_title": "Bootverhuur",
+  "vehicle": "auto",
+  "blip_title": "Autoverhuur",
   "press_e": "Druk op ~INPUT_CONTEXT~ om een _vehicle_ te huren",
   "store_vehicle": "Druk op ~INPUT_CONTEXT~ om het _vehicle_ terug te brengen",
   "stored_vehicle": "Bedankt voor het terugbrengen van het _vehicle_",
-  "shop_name": "Bootverhuur",
+  "shop_name": "Autoverhuur",
   "more_info": "Meer info",
   "buy": "Nu huren",
   "back": "Terug",

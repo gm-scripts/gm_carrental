@@ -1,0 +1,132 @@
+{
+  "framework": "esx",
+  "lang": "en",
+  "keys": {
+    "openMenu": 38
+  },
+  "rentForFree": false,
+  "payForTime": true,
+  "payInterval": 5,
+  "blockIfCantPay": true,
+  "payForDamage": true,
+  "damageCost": 1,
+  "payIfDestroyed": true,
+  "destroyedPayMultiplier": 10,
+  "menu": {
+    "scale": 1,
+    "bgPrimary": "#4a4a55",
+    "bgSecondary": "#35353f",
+    "xActive": "#ff666f",
+    "xInactive": "#4a4a55"
+  },
+  "vehicles": [
+    {
+      "model": "blista",
+      "label": "Blista",
+      "price": 22,
+      "info": [
+        "Drive it round the city, try not to crash, and don't expect to meet the love of your life... unless they're really faded."
+      ]
+    },
+    {
+      "model": "asea",
+      "label": "Asea",
+      "price": 24,
+      "info": ["An affordable, no frills, fuel-efficient compact sedan. When 'ample headroom' is central to the marketing campaign, what you see is what you get."]
+    },
+    {
+      "model": "habanero",
+      "label": "Habanero",
+      "price": 26,
+      "info": ["Do you hate your family and your job? Are you remortgaged up to your nipples? The last time you ate Mexican food did it give you IBS? If so, then our statistics suggest you're overwhelmingly likely to buy a sensible four-door family SUV with a vaguely peppy name. And here it is."]
+    },
+    {
+      "model": "schwarzer",
+      "label": "Schwartzer",
+      "price": 42,
+      "info": ["Say what you will about the Germans - they know luxury. And their economy is the only one worth a crap in Europe. This model has all kinds of extras - too many to list for legal reasons."]
+    }
+  ],
+  "zones": [
+    {
+      "name": "airport",
+      "marker": {
+        "x": -832.41,
+        "y": -2351.17,
+        "z": 13.57
+      },
+      "spawn": {
+        "x": -829.4,
+        "y": -2355.46,
+        "z": 13.57,
+        "h": 331.81
+      },
+      "showBlip": true
+    },
+    {
+      "name": "legion square",
+      "marker": {
+        "x": 41.66,
+        "y": -841.98,
+        "z": 29.89
+      },
+      "spawn": {
+        "x": 37.39,
+        "y": -841.21,
+        "z": 29.89,
+        "h": 160.79
+      },
+      "showBlip": true
+    },
+    {
+      "name": "paleto",
+      "marker": {
+        "x": -198.98,
+        "y": 6234.16,
+        "z": 30.5
+      },
+      "spawn": {
+        "x": -197.3,
+        "y": 6228.3,
+        "z": 30.5,
+        "h": 225.29
+      },
+      "showBlip": true
+    }
+  ],
+  "marker": {
+    "type": 1,
+    "direction": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 1.0
+    },
+    "color": {
+      "r": 35,
+      "g": 191,
+      "b": 124
+    },
+    "alpha": 100,
+    "bob": false,
+    "face": false,
+    "distance": {
+      "show": 100.0,
+      "open": 2.0
+    }
+  },
+  "blips": {
+    "color": 17,
+    "id": 326,
+    "size": 1.0
+  }
+}

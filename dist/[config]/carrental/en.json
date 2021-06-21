@@ -1,6 +1,6 @@
 {
-  "vehicle": "boat",
-  "blip_title": "Boat Rental",
+  "vehicle": "car",
+  "blip_title": "Car Rental",
   "press_e": "Press ~INPUT_CONTEXT~ to rent a _vehicle_",
   "store_vehicle": "Press ~INPUT_CONTEXT~ to return the _vehicle_",
   "stored_vehicle": "Thanks for returning the _vehicle_",

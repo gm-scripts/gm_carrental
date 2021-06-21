@@ -1,10 +1,10 @@
 {
-  "vehicle": "bateau",
-  "blip_title": "Location de _vehicle_x",
+  "vehicle": "voiture",
+  "blip_title": "Location de _vehicle_",
   "press_e": "Appuyez sur ~INPUT_CONTEXT~ pour louer un véhicule",
   "store_vehicle": "Appuyez sur ~INPUT_CONTEXT~ pour rendre le véhicule",
   "stored_vehicle": "Merci de rapporter le véhicule",
-  "shop_name": "Location de _vehicle_x",
+  "shop_name": "Location de _vehicle_",
   "more_info": "Informations",
   "buy": "Louer",
   "back": "Retourner",

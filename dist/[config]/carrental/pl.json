@@ -1,10 +1,10 @@
 {
-  "vehicle": "łódź",
-  "blip_title": "Wypożyczalnia _vehicle_i",
+  "vehicle": "samochód",
+  "blip_title": "Wypożyczalnia _vehicle_ów",
   "press_e": "Wciśnij ~INPUT_CONTEXT~ w celu wypożyczenia _vehicle_u",
   "store_vehicle": "Wciśnij ~INPUT_CONTEXT~ aby zwrócić _vehicle_",
   "stored_vehicle": "Dziękujemy za zwrócenie _vehicle_u",
-  "shop_name": "Wypożyczalnia _vehicle_i",
+  "shop_name": "Wypożyczalnia _vehicle_ów",
   "more_info": "Informacje",
   "buy": "Wypożyczalnia",
   "back": "Wróć",
